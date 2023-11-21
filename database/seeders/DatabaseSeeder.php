@@ -19,12 +19,12 @@ class DatabaseSeeder extends Seeder
         //     'email' => 'test@example.com',
         // ]);
 
-        // \App\Models\Pesanan::create(
-        //     [
-        //     "produk" => "Headset",
-        //     "jumlah" => "2",
-        //     "harga" => "11000000",
-        //     ],);
+        \App\Models\DataLaptop::create(
+            [
+            "nama" => "Asus ROG Zephyrus G14",
+            "brand" => "Asus",
+            "harga" => "30000000",
+            ],);
 
         // \App\Models\Pelanggan::where('id', 2)->update(
         //     [

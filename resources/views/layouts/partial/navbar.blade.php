@@ -15,6 +15,7 @@
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="/pelanggan">Pelanggan</a></li>
               <li><a class="dropdown-item" href="/pesanan">Pesanan</a></li>
+              <li><a class="dropdown-item" href="/datalaptop">Data Laptop</a></li>
             </ul>
           </li>
           
